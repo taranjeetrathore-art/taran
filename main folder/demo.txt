@@ -3,7 +3,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/taranjeetrathore-art/taran.git
-git push -u origin main
-
-jhjgghjghj
+git remote add origin hittps://github.com/taranjeetrathore-art/taran.git
+git push -u origin maig
